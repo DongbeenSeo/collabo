@@ -1,4 +1,6 @@
 
 @import charset "utf-8"
 
-body{}
+body{
+	width:200px;
+}
